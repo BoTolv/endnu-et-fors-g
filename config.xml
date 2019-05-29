@@ -19,7 +19,7 @@
 
 	
 	<plugin name="cordova-plugin-inappbrowser" spec="2.0.2" />
-	<plugin name="com.pushbots.push" spec="1.2.1" source="plugins.cordova.io"/>
+	<plugin name="pushbots-plugin-push" spec="1.2.1" source="plugins.cordova.io"/>
 
 	<engine name="android" spec="~6.4.0" />
     <engine name="ios" spec="^4.5.3" />
