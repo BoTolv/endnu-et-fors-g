@@ -4,7 +4,4 @@ function openBrowser(url){
 	var options = "location = yes"
 	var ref = cordova.InAppBrowser.open(url, target, options);
 }
-function onDeviceReady(){
-	onload('https://affald.000webhostapp.com/index.html');
-}
 

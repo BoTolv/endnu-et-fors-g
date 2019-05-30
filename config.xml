@@ -19,10 +19,6 @@
 
 	
 	<plugin name="cordova-plugin-inappbrowser" spec="2.0.2" />
-	
-	<preference name="android-build-tool" value="gradle" />
-	<plugin name="phonegap-plugin-push" source="npm" />
-		<param name=="SENDER_ID" value="119545800858" />
 		
 
 	<engine name="android" spec="~6.4.0" />
